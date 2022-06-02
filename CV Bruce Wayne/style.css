@@ -1,0 +1,20 @@
+.titulo{
+    background-color: #C4C4C4;
+    color: #005677;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 35px;
+    letter-spacing: 10px;
+}
+
+.subtitulo{
+    background-color: #C4C4C4;
+    color: #005677;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    letter-spacing: 10px;
+}
+
+.futer{
+    background-color: #005677;
+    color: #FFFFFF;
+}
