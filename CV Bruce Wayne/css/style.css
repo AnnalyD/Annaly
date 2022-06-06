@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+.center{
+    text-align: center;
+}
+
+.titulo{
+    background-color: #C4C4C4;
+    color: #005677;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 35px;
+    letter-spacing: 10px;
+    text-align: center;
+    font-weight: 700;
+}
+
+.subtitulo{
+    background-color: #C4C4C4;
+    color: #005677;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    letter-spacing: 10px;
+    font-weight: 700;
+}
+
+.negrita{
+    font-weight: 700;
+}
+
+.resaltarr{
+    font-weight: 700;
+    font-style: oblique;
+}
+
+.futer{
+    background-color: #005677;
+    color: #FFFFFF;
+    font-size: 20px;
+    text-align: center;
+}
+
+i{
+    color: #FFFFFF;
+}
+
+body {
+    font-family: 'Bebas Neue', cursive;
+}
+
+a{
+    text-decoration: none;
+}
